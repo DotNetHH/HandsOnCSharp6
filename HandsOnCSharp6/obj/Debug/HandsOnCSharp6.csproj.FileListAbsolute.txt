@@ -1,0 +1,1 @@
+c:\users\siavash.ghassemi\documents\visual studio 2015\Projects\HandsOnCSharp6\HandsOnCSharp6\bin\Debug\HandsOnCSharp6.exe.config
